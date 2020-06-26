@@ -1,0 +1,254 @@
+{
+  "comment": {
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/comments/27759406"
+      },
+      "html": {
+        "href": "https://bitbucket.org/_jrivero_/sdformat/pull-requests/12/_/diff#comment-27759406"
+      }
+    },
+    "pullrequest": {
+      "type": "pullrequest",
+      "id": 12,
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12"
+        },
+        "html": {
+          "href": "https://bitbucket.org/_jrivero_/sdformat/pull-requests/12"
+        }
+      },
+      "title": "Add osx debugging print statements"
+    },
+    "content": {
+      "raw": "this is a new comment\n\n@osrf_jenkins please test",
+      "markup": "markdown",
+      "html": "<p>this is a new comment</p>\n<p><a href=\"https://bitbucket.org/osrf_jenkins/\" rel=\"nofollow\" title=\"@osrf_jenkins\" class=\"mention\">osrf_jenkins</a> please test</p>"
+    },
+    "created_on": "2016-12-02T17:22:28.377918+00:00",
+    "user": {
+      "username": "_jrivero_",
+      "type": "user",
+      "display_name": "Jose Luis Rivero",
+      "uuid": "{d12309b2-f745-42ee-b119-aec4fcdf81fe}",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/users/_jrivero_"
+        },
+        "html": {
+          "href": "https://bitbucket.org/_jrivero_/"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/account/_jrivero_/avatar/32/"
+        }
+      }
+    },
+    "updated_on": "2016-12-02T17:22:28.423151+00:00",
+    "type": "pullrequest_comment",
+    "id": 27759406
+  },
+  "pullrequest": {
+    "merge_commit": null,
+    "description": "testing description message.",
+    "links": {
+      "decline": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/decline"
+      },
+      "commits": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/commits"
+      },
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12"
+      },
+      "comments": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/comments"
+      },
+      "merge": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/merge"
+      },
+      "html": {
+        "href": "https://bitbucket.org/_jrivero_/sdformat/pull-requests/12"
+      },
+      "activity": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/activity"
+      },
+      "diff": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/diff"
+      },
+      "approve": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/approve"
+      },
+      "statuses": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/pullrequests/12/statuses"
+      }
+    },
+    "author": {
+      "username": "_jrivero_",
+      "type": "user",
+      "display_name": "Jose Luis Rivero",
+      "uuid": "{d12309b2-f745-42ee-b119-aec4fcdf81fe}",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/users/_jrivero_"
+        },
+        "html": {
+          "href": "https://bitbucket.org/_jrivero_/"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/account/_jrivero_/avatar/32/"
+        }
+      }
+    },
+    "close_source_branch": true,
+    "reviewers": [],
+    "destination": {
+      "commit": {
+        "hash": "0dd38b0f34b3",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/commit/0dd38b0f34b3"
+          }
+        }
+      },
+      "repository": {
+        "full_name": "_jrivero_/sdformat",
+        "type": "repository",
+        "uuid": "{e657e407-25af-40af-84a8-800f4a0f2994}",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat"
+          },
+          "html": {
+            "href": "https://bitbucket.org/_jrivero_/sdformat"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/_jrivero_/sdformat/avatar/32/"
+          }
+        },
+        "name": "sdformat"
+      },
+      "branch": {
+        "name": "default"
+      }
+    },
+    "comment_count": 1,
+    "id": 12,
+    "source": {
+      "commit": {
+        "hash": "a33755d6cdd4",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat/commit/a33755d6cdd4"
+          }
+        }
+      },
+      "repository": {
+        "full_name": "_jrivero_/sdformat",
+        "type": "repository",
+        "uuid": "{e657e407-25af-40af-84a8-800f4a0f2994}",
+        "links": {
+          "self": {
+            "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat"
+          },
+          "html": {
+            "href": "https://bitbucket.org/_jrivero_/sdformat"
+          },
+          "avatar": {
+            "href": "https://bitbucket.org/_jrivero_/sdformat/avatar/32/"
+          }
+        },
+        "name": "sdformat"
+      },
+      "branch": {
+        "name": "ignmath_osx_debug"
+      }
+    },
+    "created_on": "2016-12-02T17:13:58.093203+00:00",
+    "state": "OPEN",
+    "task_count": 0,
+    "updated_on": "2016-12-02T17:22:28.432535+00:00",
+    "reason": "",
+    "title": "Add osx debugging print statements",
+    "participants": [
+      {
+        "type": "participant",
+        "role": "PARTICIPANT",
+        "approved": false,
+        "user": {
+          "username": "_jrivero_",
+          "type": "user",
+          "display_name": "Jose Luis Rivero",
+          "uuid": "{d12309b2-f745-42ee-b119-aec4fcdf81fe}",
+          "links": {
+            "self": {
+              "href": "https://api.bitbucket.org/2.0/users/_jrivero_"
+            },
+            "html": {
+              "href": "https://bitbucket.org/_jrivero_/"
+            },
+            "avatar": {
+              "href": "https://bitbucket.org/account/_jrivero_/avatar/32/"
+            }
+          }
+        }
+      }
+    ],
+    "type": "pullrequest",
+    "closed_by": null
+  },
+  "repository": {
+    "scm": "hg",
+    "website": null,
+    "uuid": "{e657e407-25af-40af-84a8-800f4a0f2994}",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/_jrivero_/sdformat"
+      },
+      "html": {
+        "href": "https://bitbucket.org/_jrivero_/sdformat"
+      },
+      "avatar": {
+        "href": "https://bitbucket.org/_jrivero_/sdformat/avatar/32/"
+      }
+    },
+    "full_name": "_jrivero_/sdformat",
+    "owner": {
+      "username": "_jrivero_",
+      "type": "user",
+      "display_name": "Jose Luis Rivero",
+      "uuid": "{d12309b2-f745-42ee-b119-aec4fcdf81fe}",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/users/_jrivero_"
+        },
+        "html": {
+          "href": "https://bitbucket.org/_jrivero_/"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/account/_jrivero_/avatar/32/"
+        }
+      }
+    },
+    "type": "repository",
+    "is_private": false,
+    "name": "sdformat"
+  },
+  "actor": {
+    "username": "_jrivero_",
+    "type": "user",
+    "display_name": "Jose Luis Rivero",
+    "uuid": "{d12309b2-f745-42ee-b119-aec4fcdf81fe}",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/users/_jrivero_"
+      },
+      "html": {
+        "href": "https://bitbucket.org/_jrivero_/"
+      },
+      "avatar": {
+        "href": "https://bitbucket.org/account/_jrivero_/avatar/32/"
+      }
+    }
+  }
+}

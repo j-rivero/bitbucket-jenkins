@@ -1,0 +1,11 @@
+config:
+   server:
+      port : 9999
+   jenkins_server:
+      url  : http://your.jenkins.url
+      user : username
+      pass : foo
+   projects:
+     osrf/gazebo:
+       - job : gazebo-any-devel-quantal-amd64-gpu-nvidia
+       - job : gazebo-any-abichecker-quantal-amd64
